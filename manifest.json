@@ -1,0 +1,20 @@
+{
+  "title": "Pipo Demo",
+  "root": {
+    "type": "scroll",
+    "children": [
+      {
+        "type": "text",
+        "text": "Hello, Pipo!"
+      },
+      {
+        "type": "text",
+        "text": "Google: [google](https://www.google.com)"
+      },
+      {
+        "type": "image",
+        "url": "https://github.com/keisau/pipo/blob/7c17aed5e76e9023458d6fb56da24b2192904990/assets/image-1.jpeg"
+      }
+    ]
+  }
+}
