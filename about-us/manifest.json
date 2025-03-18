@@ -1,11 +1,11 @@
 {
-  "title": "Pipo Demo",
+  "title": "About Us",
   "root": {
     "type": "scroll",
     "children": [
       {
         "type": "text",
-        "text": "Hello, Pipo!"
+        "text": "Hello, World!"
       },
       {
         "type": "text",
